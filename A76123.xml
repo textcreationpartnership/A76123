@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A battaile fought betvveen a Presbyterian cock of the right breed, and a craven of the Independent breed. With the cravens desire, that the quarrell may be ended, either upon Tower-Hill, or at the narrow place turning up to Padington. Also the sad complaint the craven made to some of his friends at his death, that he could not be buryed, and intomb'd as Presbytery John was, he therefore only desires one of the beadles of Bride-Well to be his excequetor. With the Presbyterian cocks epistle to the heads-man.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76123</idno>
+            <idno type="STC">Wing B1161</idno>
+            <idno type="STC">Thomason E400_15</idno>
+            <idno type="STC">ESTC R201749</idno>
+            <idno type="EEBO-CITATION">99862249</idno>
+            <idno type="PROQUEST">99862249</idno>
+            <idno type="VID">114402</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114402)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A battaile fought betvveen a Presbyterian cock of the right breed, and a craven of the Independent breed. With the cravens desire, that the quarrell may be ended, either upon Tower-Hill, or at the narrow place turning up to Padington. Also the sad complaint the craven made to some of his friends at his death, that he could not be buryed, and intomb'd as Presbytery John was, he therefore only desires one of the beadles of Bride-Well to be his excequetor. With the Presbyterian cocks epistle to the heads-man.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With a woodcut representing two cocks: 'Presbyterian John revived' and 'Independent Craven a dying'"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "July 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Separatists --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114402:1" rendition="simple:additions"/>
+            <p>A BATTAILE Fought betvveen a Presbyterian COCK of the Right breed, and A CRAVEN of the Independent breed.</p>
+            <p>With the CRAVENS deſire, that the quarrell may be ended, either upon Tower-Hill, or at the narrow place turning up to <hi>PADINGTON.</hi>
+            </p>
+            <p>Alſo the ſad complaint the CRAVEN made to ſome of his friends at his death, that he could not be buryed, and INTOMB'D as Presbytery <hi>John</hi> was, he therefore on<g ref="char:EOLhyphen"/>ly deſires one of the Beadles of Bride-Well to be his Excequetor.</p>
+            <p>With the <hi>Preſbyterian</hi> Cocks Epiſtle to the HEADS-MAN.</p>
+            <figure>
+               <figDesc>depiction of two cocks ready for a cock-fight</figDesc>
+               <figure>
+                  <head>Presbyterian Iohn revived.</head>
+               </figure>
+               <figure>
+                  <head>Independent Craven a dying.</head>
+               </figure>
+            </figure>
+            <p>
+               <add>July 29</add> 
+               <hi>London</hi> Printed 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114402:2"/>
+            <pb n="1" facs="tcp:114402:2"/>
+            <opener>
+               <salute>SIR DERRICK:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is not in expectation of any future benefits, or deſire of any further ac<g ref="char:EOLhyphen"/>quaintance with thee; that I preſent this to thy view. But as thou art the the chiefe Headſman, and a bettor at this ſport againſt me, ha, ha; indeed, it is thy due <hi>Cum Pri<g ref="char:EOLhyphen"/>vilegio.</hi> And the rather conſidering (if I be not much miſtaken) thou thy ſelfe art an <hi>Independent;</hi> (thou knoweſt the old ſaying, truſt thee, and hang thee) for had'ſt thou the Law in thy own hand, (as may be thou haſt already) thou wouldſt not care how many ſuch Cravens fall into thy pit. But now to come to thy Patient. This Craven muſt be cured out of hand, or elſe theſe bitter and undigeſted pills or pellets will go neere to ſpoyle his crowing: do'ſt thou not hear how he rattles in his guiſard, and cryes out give me Liberty of Conſcience to do what I liſt, or elſe I cannot con<g ref="char:EOLhyphen"/>tinue long liv'd; for I cannot abide Conformity
+<pb n="2" facs="tcp:114402:3"/>ô give me Liberty, &amp;c. Nay here wil be further im<g ref="char:EOLhyphen"/>ployment for thee, &amp; for loane Ruggles thy wife, if thou haſt one; one did <hi>I</hi> ſay? <hi>I</hi> do not forget, thou hadſt like to have a miſchance, (meane only a turn in thy own Office for having two) but that was when Biſhops did rule: but now if thou haſt two, thou mayſt plead for thy Liberty of Conſcience. But this Craven hath ſome Hens that follow him to his Dunghils, which are good breeders, and cloſe ſitters: As the Pheaſant, and the Peacock Hens; they are very ſharp beackt, hollow ey'd, and long claw'd; and their feathers would be very profitable to thee: and <hi>I</hi> obſerve by their lookes they are troubled with ſome in<g ref="char:EOLhyphen"/>ward grieſe; which is fiteſt for thy wife to look after: they keep a vile chackling, they want (as the word is called) groping, for they are mad they cannot hatch up their broude of contention no faſter, to teach them to cry up Liberty of Con<g ref="char:EOLhyphen"/>ſcience, and down with Honeſty. Sir, if this be not ſuddenly cured, it may turn to the pip, or ſome worſe diſeaſe: ſo leaving you to your ſe<g ref="char:EOLhyphen"/>verall Offices, being reſolved never to trouble you my ſelfe.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="3" facs="tcp:114402:3"/>
+            <head>TO THE READER:</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>VVHat ever thou art that ſhall read this ſmall Chal<g ref="char:EOLhyphen"/>lenge between theſe two Cockes, whether Preſ<g ref="char:EOLhyphen"/>byterian, or Independent (as I am confident thou art of one ſide or other) You muſt obſerve Cockpit orders; That is done, and done; If thou ſpeakſt in the time of their in<g ref="char:EOLhyphen"/>countring, thou mayſt happily loſe thy wager; now which ſide thou wilt take I know not, and indeed it is very difficult to perſwade thee, eſpecially if thou art Weather-Cockly bent; well how ever thou haſt notice where this challenge is to be, and brother Presbyter I will give thee notice of one thing, to beware, for the Maſter of the Pit is a cunning Roock, and ſeeks to draw in abettors by laying too to one, that the Independant Craven will have the beſt of it; but I feare it not, yet if <hi>T. T.</hi> were to incounter with him, I would hold the maſter of the Pit my ſelfe, and his Craven too, (had I them but in a ſtrong nooſe) for all he ſeemes to flout, and ſay this Cockes Come hath been cut, I anſwer that was when might overcame right, but Craven thou waſt in a worſe condition then, when thou waſt like to be choakt with a paire of Lawne ſleeves; and they could
+<pb n="4" facs="tcp:114402:4"/>not be more odious to thee, then thou art to me, in thy odi<g ref="char:EOLhyphen"/>ous clamerings after <hi>Liberty of Conſcience,</hi> ſo thou haſt that, thou carſt not if the whole Kingdome where become a ſad and diſconſolate <hi>Chaos;</hi> but God-forbid, I hope there will ever bee a ſtrong and ſetled government to confine ſuch Cravens as thou art: And now Craven or Capon, having obſerved thy dunghill motions and Crowings, and carria<g ref="char:EOLhyphen"/>ges, whereof there is never a one good, I profeſſe my ſelfe thy utter enemy; and my wiſhes and betts ſhall be, that the Presbyterian Cocke, who is of a farre better breed may have the better of thee; I like his weapons and carriage a great deale better then I doe thine, and I tell thee, It were better thy head were off, then to live to tread thy Peacock and Pheaſant Hens of thy owne faction; to become as ſo many Dung-hill Cravens, who are good for nothing but to crow at unſeaſonable houres; And labour dayly by their Crowings and other unlawfull actions to bring all to de<g ref="char:EOLhyphen"/>ſtruction; <hi>God forbid.</hi> I know any honeſt Presbyterian will ſay <hi>Amen.</hi> Good Reader, doe but obſerve the Im<g ref="char:EOLhyphen"/>pudence and inſolency of this poyſond breath Craven; who not onely ſtrikes his ſpurres, but ſpits his venomous and moſt approbrious ſcoffes and jeeres againſt many Re<g ref="char:EOLhyphen"/>verend Divines, and that not of the meanes ſort, but even of the Aſſembly, away Craven for ſhame if thou haſt any, I may without much wronging of thee challenge thy feare to thy Maker, when thou ſo impudently abuſes them that are fellow labourers with him; but it matters not what thou ſayeſt, neither doe they whom thou haſt wronged: I may ſay truly, that their ſeaſonable and timely Crowings have defended their young breed committed to their charge, from the Roaring of the Lion; and ſhall ſtill continue I hope, when thy Satanicall breed, or Dunghills of theſe diſtracted times may have their Comes cut, and their Cra<g ref="char:EOLhyphen"/>venly
+<pb n="5" facs="tcp:114402:4"/>feathers poold off their backes; It may very well be feared, that if theſe Dung-hills, or Cravens, play ſo high as to ſtrike at ſuch lights could get the better, (which God forbid) would ſoone ſeeke to ſtrike their poyſonous beakes into the very light of truth it ſelfe; and then to walke and rule as they pleaſe, which they call <hi>Tolleration,</hi> or <hi>Liberty of Conſcience,</hi> that they may hatch and bring up their ungodly breed of Sectaries, as <hi>Anabaptiſts, Antinomians, Anti-Scripturists, Seekers, &amp;c.</hi> A diviliſh brood, God defend us from them; theſe are they that hate true Reformation, and ſetlement of true Religion; they are as the Scripture truly renders them, <hi>of a perverſe and crooked Generation,</hi> they ſinell too much of the Onyons and Garlick of <hi>Aegypt,</hi> who outwardly make as if they were the ſheep, or little flocke, but inwardly devouring Wolves, and hate to bee re<g ref="char:EOLhyphen"/>form'd.</p>
+            <p>To conclude, Without an extraordinary ſudden An<g ref="char:EOLhyphen"/>tidote from heaven, to expell theſe lothſome ſmells of Se<g ref="char:EOLhyphen"/>ctaries, they may not only trouble us with the ſmell, but by their continuing, may be the cauſe of pulling downe the plagues of <hi>Aegypt</hi> upon the whole Kingdome.</p>
+            <closer>
+               <salute>Farewell Independent CRAVEN.</salute>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Laſtly,</hi> My hearty Prayers to God for all my true hearted Bre<g ref="char:EOLhyphen"/>thren the Preſbyterians is, That the Lord would power out upon them, and all ſorts of perſons in theſe Kingdoms a ſpirit of grace and ſupplication, that it may repent us of all our iniquities, and that we may be reconciled to the Lord; that ſo all the threatens of his wrath may be removed from amongſt us, and he may bleſſe us with the ſweet fruits of truth and peace.</p>
+            </postscript>
+         </div>
+         <div type="mock_last_will_and_testament">
+            <pb n="6" facs="tcp:114402:5"/>
+            <head>The laſt VVILL and TESTAMENT of the <hi>CRAVEN COCK.</hi>
+            </head>
+            <p>
+               <hi>And now my dear brother and Excequetor, you ſee how the caſe ſtands with me, I ſhall trouble you but with a ſhort Will, in regard halfe my eſtate is ſequeſtred, for the Headſman is to have my body, my head excepted.</hi>
+            </p>
+            <p>
+               <hi>Impr. I</hi> dee deſire that my head may bee ſet upon <hi>London-Bridge,</hi> with my face looking towards <hi>Horſeydown,</hi> that it may be as a ſcare-crow to the fowles of the aire, that they may not hurt none of my young Brood when they goe to purge themſelves of their fornication.</p>
+            <p>
+               <hi>Item,</hi> I doe bequeath my Feathers unto ſome of my fellow Cravens, if in caſe they ſhould fall into the like danger; they may help to cover them.</p>
+            <p>
+               <hi>Item,</hi> I do bequeath thoſe two precious Stones that lye with<g ref="char:EOLhyphen"/>in me, among my Peacock, and Pheaſant Hens; that in caſe their inward bowels ſhould yearne after thoſe ſecrets of nature that hath past between us; that they may not looſe the ſight of them.</p>
+            <p>
+               <hi>Item.</hi> For my two gouty legs, I doe bequeath to each Hoſ<g ref="char:EOLhyphen"/>pitall one; if they can cure them, they will ſerve ſome of my brethren, that stand for Liberty of Conſcience.</p>
+            <p>
+               <hi>Item.</hi> Jn the last place, for my ſpurs; J doe freely be<g ref="char:EOLhyphen"/>ſtow them upon thoſe two well affected Jndependent brethren <hi>Tim. Reed,</hi> and <hi>Iack. Pudding;</hi> who I am ſure will ſtand up ſtifly for Liberty and Tolleration to play the fooles, that they may make others laugh, and themſelves get money.</p>
+            <p>
+               <hi>And now my deare brother and Excequotor, in caſe there ſhould be nothing left for you, I ſhall deſire Mr.</hi> Derick <hi>(he being Maſter of the pit) to pay you, and the reſt of our</hi> Independent brethren <hi>to the full.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
